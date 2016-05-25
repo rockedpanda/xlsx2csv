@@ -1,0 +1,23 @@
+{
+  "name": "xlsx2csv",
+  "version": "1.0.0",
+  "description": "装换xlsx的sheet为独立的csv格式,自动处理合并单元格",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockedpanda/xlsx2csv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockedpanda/xlsx2csv/issues"
+  },
+  "homepage": "https://github.com/rockedpanda/xlsx2csv#readme",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "xlsx": "^0.8.0"
+  }
+}
